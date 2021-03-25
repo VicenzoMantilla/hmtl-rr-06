@@ -1,33 +1,16 @@
 #contenedor{
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     padding: 0;
 }
 #contenedorheader{
     
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     padding: 0;
 }
 #header{
     box-sizing: border-box;
-    text-decoration: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     padding: 0;
     display: block;
@@ -56,11 +39,8 @@
 }
 #nav{
     text-size-adjust: 100%;
-    text-rendering: optimizeLegibility;
     color: #4c4e4d;
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
     background-color: #F1F3F2;
     margin: 0;
     padding: 0;
@@ -99,10 +79,6 @@
     white-space: nowrap;
     box-sizing: border-box;
     text-decoration: inherit;
-    vertical-align: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
     margin: 0;
     padding: 0;
     display: inline-block;
@@ -116,15 +92,9 @@
 }
 #contribute{
     text-size-adjust: 100%;
-    text-rendering: optimizeLegibility;
     color: #4c4e4d;
     box-sizing: border-box;
     text-decoration: inherit;
-    vertical-align: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     padding: 0;
     display: flex;
@@ -137,43 +107,26 @@
 }
 #contributeul{
     text-size-adjust: 100%;
-    text-rendering: optimizeLegibility;
     color: #4c4e4d;
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     padding: 0;
     list-style-type: none;
     margin: auto 8px;
 }
 #contributeli{
     text-size-adjust: 100%;
-    text-rendering: optimizeLegibility;
     color: #4c4e4d;
     list-style-type: none;
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     padding: 0;
     display: inline-block;
 }
 #textcontribute{
     text-size-adjust: 100%;
-    text-rendering: optimizeLegibility;
     color: #4c4e4d;
     list-style-type: none;
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
     margin: 0;
     padding: 0;
     font-size: calc(1em * 1.2 * 1.2 * 1.2);
@@ -204,14 +157,7 @@
 .contenedor2{
     text-size-adjust: 100%;
     color: #4c4e4d;
-    text-rendering: optimizeLegibility;
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 16px 0 0;
     padding: 0;
     margin-top: 0;
@@ -219,14 +165,7 @@
 .contenedor2 .contenedortitular{
     text-size-adjust: 100%;
     color: #4c4e4d;
-    text-rendering: optimizeLegibility;
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     padding: 0;
     margin: 0 0 1.2rem;
     position: relative;
@@ -234,14 +173,7 @@
 .contenedortitular .titular{
     text-size-adjust: 100%;
     color: #4c4e4d;
-    text-rendering: optimizeLegibility;
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     padding: 0;
     display: flex;
@@ -251,10 +183,8 @@
 }
 .titular .titularh1{
     text-size-adjust: 100%;
-    text-rendering: optimizeLegibility;
     box-sizing: border-box;
     text-decoration: inherit;
-    vertical-align: inherit;
     margin: 0;
     padding: 0;
     font-family: "Balto",Helvetica, sans-serif;
@@ -274,10 +204,7 @@
 }
 .titular .titulartexto{
     text-size-adjust: 100%;
-    text-rendering: optimizeLegibility;
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
     margin: 0;
     padding: 0;
     font-family: "Balto",Helvetica, sans-serif;
@@ -342,14 +269,8 @@
 .divnoticia .noticiatextos{
     text-size-adjust: 100%;
     color: #4c4e4d;
-    text-rendering: optimizeLegibility;
     font-weight: 400;
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
-    font-family: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     padding: 0;
     margin-bottom: 1.2rem;
@@ -367,14 +288,7 @@
 .tercerbloque{
     text-size-adjust: 100%;
     color: #4c4e4d;
-    text-rendering: optimizeLegibility;
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     padding: 0;
     margin: 32px auto;
     max-width: 730px;
@@ -382,28 +296,15 @@
 .tercerbloque .contenedor3{
     text-size-adjust: 100%;
     color: #4c4e4d;
-    text-rendering: optimizeLegibility;
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     padding: 0;
 }
 .cont3cuerpo{
     text-size-adjust: 100%;
     color: #4c4e4d;
-    text-rendering: optimizeLegibility;
     box-sizing: border-box;
-    text-decoration: inherit;
     vertical-align: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     padding: 0;
     max-width: 800px;
     margin: 0 auto;
@@ -427,7 +328,6 @@
 }
 .titulobloque4 span{
     text-size-adjust: 100%;
-    text-rendering: optimizeLegibility;
     box-sizing: border-box;
     font-family: "HarrietDisplayBlack",Helvetica, sans-serif;
     font-style: italic;
@@ -444,42 +344,22 @@
 .seccion3{
     text-size-adjust: 100%;
     color: #4c4e4d;
-    text-rendering: optimizeLegibility;
     box-sizing: border-box;
-    text-decoration: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     display: block;
 }
 .contseccion3{
     text-size-adjust: 100%;
     color: #4c4e4d;
-    text-rendering: optimizeLegibility;
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     margin-bottom: 2.4em;
 }
 .contseccion3 .textolinks{
-    text-rendering: optimizeLegibility;
-    font-weight: inherit;
     letter-spacing: normal;
     text-transform: none;
     list-style: none;
     box-sizing: border-box;
-    text-decoration: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     padding: 8px 0px;
     background-color: transparent;
@@ -489,32 +369,19 @@
 .lateral{
     text-size-adjust: 100%;
     color: #4c4e4d;
-    text-rendering: optimizeLegibility;
     box-sizing: border-box;
     text-decoration: inherit;
-    vertical-align: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     padding: 0;
     flex-grow: 0;
     flex-shrink: 0;
     flex-basis: 300px;
     min-width: 0;
-    margin-left: 1.56rem;
 }
 .cont5{
     text-size-adjust: 100%;
     color: #4c4e4d;
-    text-rendering: optimizeLegibility;
     box-sizing: border-box;
-    text-decoration: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     padding: 0;
     margin-top: 1.2rem;
@@ -522,13 +389,7 @@
 }
 .aside{
     text-size-adjust: 100%;
-    text-rendering: optimizeLegibility;
     box-sizing: border-box;
-    text-decoration: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     padding: 0;
     display: block;
@@ -538,10 +399,7 @@
 }
 .tituloaside{
     text-size-adjust: 100%;
-    text-rendering: optimizeLegibility;
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
     background-color: transparent;
     color: #4c4e4d;
     font-family: "HarrietDisplayBlack",Helvetica, sans-serif;
@@ -561,18 +419,11 @@
 }
 .tituloaside .mostread{
     text-size-adjust: 100%;
-    text-rendering: optimizeLegibility;
     font-weight: normal;
     letter-spacing: .02em;
     text-transform: uppercase;
     text-align: left;
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     padding: 0;
     position: relative;
@@ -580,40 +431,24 @@
 }
 .asidecont{
     text-size-adjust: 100%;
-    text-rendering: optimizeLegibility;
     color: #4c4e4d;
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     padding: 0;
 }
 .asidelist{
     text-size-adjust: 100%;
-    text-rendering: optimizeLegibility;
     color: #4c4e4d;
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     padding: 0;
     list-style-type: none;
     margin: 0;
 }
 .asidelist .asidelistitems{
     text-size-adjust: 100%;
-    text-rendering: optimizeLegibility;
     color: #4c4e4d;
     list-style-type: none;
     box-sizing: border-box;
-    text-decoration: inherit;
     vertical-align: inherit;
     margin: 0;
     font-family: "Balto",Helvetica, sans-serif;
@@ -637,11 +472,6 @@
 .textoimga{
     color: #4c4e4d;
     box-sizing: border-box;
-    text-decoration: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     display: block;
     padding: 8px 0;
@@ -651,13 +481,7 @@
 .cuadro{
     text-size-adjust: 100%;
     color: #4c4e4d;
-    text-rendering: optimizeLegibility;
     box-sizing: border-box;
-    text-decoration: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     padding: 0;
     margin-top: 1.2rem;
@@ -666,13 +490,7 @@
 .cuadrocont{
     text-size-adjust: 100%;
     color: #4c4e4d;
-    text-rendering: optimizeLegibility;
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     padding: 0;
     font-family: "Balto",Helvetica, sans-serif;
@@ -682,15 +500,8 @@
 }
 .contorno{
     text-size-adjust: 100%;
-    text-rendering: optimizeLegibility;
     text-align: center;
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     background: #fff;
     border: 2px solid #4f7177;
@@ -700,16 +511,9 @@
 }
 .espacioicon{
     text-size-adjust: 100%;
-    text-rendering: optimizeLegibility;
     text-align: center;
     color: #4c4e4d;
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     background: #fff;
     left: calc(50%);
@@ -743,15 +547,9 @@
 }
 .textorecuadro{
     text-size-adjust: 100%;
-    text-rendering: optimizeLegibility;
     text-align: center;
     color: #4c4e4d;
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
-    font-family: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     padding: 0;
     margin-bottom: 1.2rem;
@@ -762,33 +560,18 @@
 }
 .finalrecuadro{
     text-size-adjust: 100%;
-    text-rendering: optimizeLegibility;
     text-align: center;
     color: #4c4e4d;
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     padding: 0;
     width: 100%;
 }
 .recuadroform{
     text-size-adjust: 100%;
-    text-rendering: optimizeLegibility;
     text-align: center;
     color: #4c4e4d;
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
-    margin: 0;
     padding: 0;
     display: grid;
     grid-template-columns: 1fr auto;
@@ -799,12 +582,6 @@
     text-align: center;
     color: #4c4e4d;
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     padding: 0;
     grid-column-start: 1;
@@ -815,12 +592,6 @@
     text-size-adjust: 100%;
     text-align: center;
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     padding: 0;
     color: #767676;
@@ -828,16 +599,9 @@
 }
 .contenedoremail{
     text-size-adjust: 100%;
-    text-rendering: optimizeLegibility;
     text-align: center;
     color: #4c4e4d;
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     padding: 0;
     grid-column-start: 1;
@@ -846,11 +610,6 @@
 #mailinput{
     text-size-adjust: 100%;
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
-    font-family: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     border: 1px solid #d1d1d1;
     font-size: .75em;
@@ -864,11 +623,6 @@
 .ultimotexto{
     text-size-adjust: 100%;
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
-    font-family: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     padding: 0;
     font-size: .7em;
@@ -884,14 +638,9 @@
 .boton{
     text-size-adjust: 100%;
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
-    font-style: inherit;
-    line-height: inherit;
     background: none;
     transition: color .1s,background-color .1s,fill .1s;
     font-family: "Balto",Helvetica, sans-serif;
-    -webkit-appearance: none;
     background-color: #4f7177;
     border: 0;
     color: #ffffff;
@@ -912,13 +661,7 @@
 }
 .footer{
     text-size-adjust: 100%;
-    text-rendering: optimizeLegibility;
     box-sizing: border-box;
-    text-decoration: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     padding: 0;
     display: block;
@@ -929,15 +672,8 @@
 }
 .footercont{
     text-size-adjust: 100%;
-    text-rendering: optimizeLegibility;
     color: #4c4e4d;
     box-sizing: border-box;
-    text-decoration: inherit;
-    vertical-align: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0 auto;
     max-width: 1100px;
     text-align: center;
@@ -947,13 +683,8 @@
 }
 .contimgfooter{
     text-size-adjust: 100%;
-    text-rendering: optimizeLegibility;
     color: #4c4e4d;
     box-sizing: border-box;
-    text-decoration: inherit;
-    font-family: inherit;
-    font-style: inherit;
-    line-height: inherit;
     margin: 0;
     font-size: .75em;
     padding: 8px 16px;
@@ -961,4 +692,119 @@
     vertical-align: middle;
     width: 200px;
     text-align: left;
+}
+
+.recommended{
+    text-size-adjust: 100%;
+    color: #4c4e4d;
+    box-sizing: border-box;
+    margin: 16px 0 0;
+    padding: 0;
+}
+.recommendedcont{
+    text-size-adjust: 100%;
+    color: #4c4e4d;
+    box-sizing: border-box;
+    padding: 0;
+    overflow: auto;
+    margin: 0 auto;
+    width: 100%;
+    max-width: initial;
+}
+.contrecomend{
+    text-size-adjust: 100%;
+    color: #4c4e4d;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    width: auto;
+    min-width: 360px;
+}
+.lalistadelinks{
+    text-size-adjust: 100%;
+    color: #4c4e4d;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.titulorecommended{
+    margin: 0;
+    padding: 0;
+    direction: ltr;
+    font-style: italic;
+    font-family: "HarrietDisplayBlack","Harriet display",Harriet,"Georgia",serif;
+    font-size: 24px;
+    color: #4c4e4d;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    border-bottom: 3px solid #fff200;
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+.listarecommended{
+    text-size-adjust: 100%;
+    color: #4c4e4d;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    direction: ltr;
+}
+.noticiarecommended{
+    color: #4c4e4d;
+    direction: ltr;
+    text-decoration: inherit;
+    padding: 0;
+    position: relative;
+    margin: 0;
+    display: inline-block;
+    vertical-align: top;
+    min-width: 50px;
+    box-sizing: border-box;
+    margin-left: 0;
+    max-width: 340px;
+    width: 14.75%;
+}
+.noticiarecommended img{
+    width: 157px;
+    height: 176px;
+    object-fit: cover;
+}
+.recommendabajo{
+    text-size-adjust: 100%;
+    color: #4c4e4d;
+    box-sizing: border-box;
+    margin: 0;
+    direction: ltr;
+    clear: both;
+    text-align: right;
+    border-top: 1px solid #e2e2e6;
+    margin-top: 15px;
+    padding: 0;
+}
+.recommendedby{
+    text-size-adjust: 100%;
+    direction: ltr;
+    text-align: right;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    transition: color .1s,background-color .1s,fill .1s;
+    color: #757575;
+    font-size: 11px;
+    font-family: arial;
+    text-decoration: none;
+}
+.outbrainlogo{
+    text-size-adjust: 100%;
+    direction: ltr;
+    text-align: right;
+    color: #757575;
+    margin: 0;
+    vertical-align: baseline !important;
+    display: inline-block;
+    padding: 0px 5px;
+    background: url('https://widgets.outbrain.com/images/widgetIcons/ob_logo_67x12.png') no-repeat center top;
+    width: 67px;
+    height: 12px;
 }
